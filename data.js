@@ -266,9 +266,10 @@ window.PORTFOLIO_DATA = {
       "Kirim ringkasan singkat lewat email. Biasanya saya membalas dalam 1–2 hari kerja (WIB).",
     email: "halo@rakapratama.example",
     links: [
-      { label: "GitHub", url: "https://github.com/username-anda" },
-      { label: "LinkedIn", url: "https://linkedin.com/in/username-anda" },
-      { label: "Instagram", url: "https://instagram.com/username-anda" }
+      { label: "GitHub", url: "https://github.com/deinnaja" }
+      // Tambahkan akun lain jika sudah siap, misalnya:
+      // { label: "LinkedIn", url: "https://linkedin.com/in/username-kamu" },
+      // { label: "Instagram", url: "https://instagram.com/username-kamu" }
     ]
   }
 };
